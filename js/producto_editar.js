@@ -10,7 +10,7 @@ createApp({
             imagen: "",
             stock: 0,
             precio: 0,
-            url: 'https://walterjromero.pythonanywhere.com/productos/' + id,
+            url: 'https://walterjromero.pythonanywhere.com/pages/productos/' + id,
         }
     },
     methods: {
